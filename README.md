@@ -10,9 +10,6 @@
 ### Client-side
 - run **WebContent/index.html** on an apache server
 
-### Live Stream
-- refer [this document](livestream/README.md) for detail
-
 ## Functionality
 - Live Streaming
 - Chat
