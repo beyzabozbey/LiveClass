@@ -14,10 +14,12 @@
 - refer [this document](livestream/README.md) for detail
 
 ## Functionality
-- Live Streaming: 
+- Live Streaming
 - Chat
 - Login/Logout
-- Notification
+- Encryption
+- E-mail
+- Registration via Access Code
 
 ## Documentation
 - in **[doc/](doc)** folder
